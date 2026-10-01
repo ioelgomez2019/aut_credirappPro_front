@@ -182,5 +182,3 @@ El informe se sirve en `http://127.0.0.1:8080/`. `runTests.ps1` crea resultados 
 ## Convenciones de automatización
 
 Las convenciones completas están en [`skills/python-appium-automation/SKILL.md`](skills/python-appium-automation/SKILL.md). En síntesis: mantener las clases Page como catálogos de localizadores; dejar la orquestación, las decisiones de estado y el orden de acciones en Workflow; reutilizar esperas e interacciones desde `BasePage` y `core/utils/`; dividir funciones largas según sus etapas o decisiones cohesivas; usar métodos en `camelCase` y prefijos semánticos de localizador como `btn` y `txt`.
-#   a u t _ c r e d i r a p p P r o _ f r o n t  
- 
