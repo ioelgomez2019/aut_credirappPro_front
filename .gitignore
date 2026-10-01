@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.idea/
+.vscode/
+*.py[cod]
+.env
+reporting/allureResults/*
+!reporting/allureResults/.gitkeep
+reporting/allureReport/
+reporting/screenshots/*
+!reporting/screenshots/.gitkeep
+reporting/logs/*
+!reporting/logs/.gitkeep
+reporting/*/
+# Local AI runtime state
+.atl/

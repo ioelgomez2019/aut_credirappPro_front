@@ -1,0 +1,7 @@
+Appium-Python-Client
+selenium
+pytest
+pytest-bdd
+allure-pytest-bdd
+pyodbc
+python-dotenv
